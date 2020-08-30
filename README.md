@@ -5,6 +5,7 @@ SeparatePcap 프로젝트는 pcap 파일을 mac주소를 기준으로 분할하�
   ## 2.1 설치
     1. Python 3.x 이상 설치
     2. SplitCap.exe 설치 (https://www.netresec.com/?page=SplitCap)
+    3. linux os의 경우 mono 패키지 설치 필요 (https://www.mono-project.com/download/stable/#download-lin)
     3. 분할하고자 하는 pcap 파일을 res/pcap/ 디렉토리 아래에 저장
     4. SplitCap.exe 파일을 src/ 디렉토리 아래에 저장
     
